@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Happy Birthday!" />
         <p className="description">
           Someone's turning 30. LOL.
         </p>
