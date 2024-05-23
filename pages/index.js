@@ -15,8 +15,6 @@ export default function Home() {
           Someone's turning 30. LOL.
         </p>
       </main>
-
-      <Footer />
     </div>
   )
 }
