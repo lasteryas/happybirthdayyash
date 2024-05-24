@@ -12,7 +12,7 @@ export default function Home() {
         <p className="description">
           Someone's turning 30. LOL.
 
-Click <a href="">here.</a>
+         Click <a href="">here.</a>
         </p>
       </main>
     </div>
